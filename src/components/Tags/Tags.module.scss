@@ -1,0 +1,31 @@
+.tags{
+    background-color:#f3f3f3;
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+    p{
+        margin-bottom: 5px;
+    }
+
+    .tagsButton {
+        background-color: #818a91;
+        color: white;
+        border-radius: 10px;
+        border: none;
+        margin: 2px;
+        font-size: 13px;
+        overflow-wrap: break-word;
+        max-width: 100%;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 768px)  {
+    .tags{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+

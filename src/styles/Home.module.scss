@@ -1,0 +1,19 @@
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.tab {
+    .ant-tabs-tab-active{
+        color: #5CB85C !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .row{
+        flex-direction: column;
+        > div{
+            width: 100%;
+        }
+    }
+}
