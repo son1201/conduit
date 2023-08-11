@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/conduit/static/css/main.f2ef9f61.css",
+    "main.js": "/conduit/static/js/main.aadee37f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/conduit/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Bean Eater-1s-150px.gif": "/conduit/static/media/Bean Eater-1s-150px.5f995dfa114d8f224959.gif",
+    "index.html": "/conduit/index.html",
+    "main.f2ef9f61.css.map": "/conduit/static/css/main.f2ef9f61.css.map",
+    "main.aadee37f.js.map": "/conduit/static/js/main.aadee37f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/conduit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2ef9f61.css",
+    "static/js/main.aadee37f.js"
+  ]
+}
